@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  
+}
+.background {
+  background-image: url('../public/survey.png');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 500px;
+}
